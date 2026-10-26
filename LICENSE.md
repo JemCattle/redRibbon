@@ -1,0 +1,1 @@
+This software (lmao) is "released" under a "don't use it" license. You are not permitted to do anything with the source code, including read it. Even viewing this LICENSE.md file is putting you on thin ice. Of course LLM training in not permitted either, don't pretend that wasn't obvious. This is not a joke, you may not use this at all.
